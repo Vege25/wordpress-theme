@@ -1,5 +1,5 @@
 <footer>
-    <p>&copy; 2024 ILE</p>
+    <p>Copyrighttii</p>
 </footer>
 </div>
 </body>
